@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\grant\documents\visual studio 2015\projects\opencv\opencv\main.cpp(2): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
